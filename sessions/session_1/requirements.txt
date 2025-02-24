@@ -22,3 +22,4 @@ symengine==0.13.0
 sympy==1.13.3
 typing_extensions==4.12.2
 wheel==0.44.0
+seaborn==0.13.2
